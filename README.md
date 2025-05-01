@@ -31,6 +31,7 @@ A collection of Generative AI mini-projects and experiments demonstrating real-w
 
 Step 2: Create a virtual environment (Recommended)
 
+
 For Windows:
 python -m venv venv
 venv\Scripts\activate
@@ -38,6 +39,7 @@ venv\Scripts\activate
 For MacOS/Linux:
 python3 -m venv venv
 source venv/bin/activate
+
 
 Step 3: Install dependencies
 
@@ -48,6 +50,7 @@ If not, install manually:
 pip install transformers gradio torch numpy pandas pillow gtts SpeechRecognition openai
 
 Step 4: Run the notebooks
+
 jupyter notebook
 Then open any .ipynb file you want to try!
 
