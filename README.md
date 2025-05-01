@@ -29,36 +29,6 @@ A collection of Generative AI mini-projects and experiments demonstrating real-w
    cd GEN_AI
    GEN_AI — Generative AI Projects Collection
 
-Welcome to GEN_AI, a collection of mini-projects showing real-world applications of Generative AI using LLMs, Hugging Face, Gradio, and other tools. You will find notebooks for tasks like email drafting, trip planning, and text-to-audio generation.
-
----
-
-Repository Contents:
-
-- Email_drafting.ipynb  → Generates AI-powered email drafts from user prompts.
-- Entity.ipynb  → Performs named entity recognition (NER) on text.
-- Gradio.ipynb  → Builds a web UI with Gradio for AI model interaction.
-- QAUI.ipynb  → Question Answering interface powered by LLM.
-- audio_to_text.ipynb  → Converts spoken audio to transcribed text.
-- carrer_advice.ipynb  → Provides personalized AI-generated career advice.
-- code_generator.ipynb  → Creates Python code snippets from text descriptions.
-- cooking_recipe.ipynb  → Suggests recipes based on ingredients or cuisines.
-- huggingface_models.ipynb  → Experiments with Hugging Face models.
-- image_to_caption.ipynb  → Generates captions for images using AI.
-- teaching_assistent.ipynb  → Acts as a virtual AI tutor.
-- text__to_audio (1).ipynb  → Converts text into audio narration.
-- text_to_multiAudio.ipynb  → Generates audio outputs in multiple voices.
-- trip_planner.ipynb  → AI travel planner suggesting itineraries.
-
----
-
-How to Use This Repository:
-
-Step 1: Clone the repository
-Run this in your terminal:
-git clone https://github.com/DeepikaKgithub/GEN_AI.git
-cd GEN_AI
-
 Step 2: Create a virtual environment (Recommended)
 
 For Windows:
