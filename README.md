@@ -23,7 +23,7 @@ A collection of Generative AI mini-projects and experiments demonstrating real-w
 
 ## 🚀 How to Run
 
-1. Clone the repo:
+1. Clone the repo :
    ```bash
    git clone https://github.com/DeepikaKgithub/GEN_AI.git
    cd GEN_AI
@@ -41,7 +41,7 @@ python3 -m venv venv
 source venv/bin/activate
 
 
-Step 3: Install dependencies
+Step 3: Install Dependencies
 
 If you have a requirements.txt:
 pip install -r requirements.txt
@@ -49,7 +49,7 @@ pip install -r requirements.txt
 If not, install manually:
 pip install transformers gradio torch numpy pandas pillow gtts SpeechRecognition openai
 
-Step 4: Run the notebooks
+Step 4: Run the Notebooks
 
 jupyter notebook
 Then open any .ipynb file you want to try!
